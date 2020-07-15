@@ -1,0 +1,253 @@
+ID;Gender;Age;Marital Status;Job;Employment Status;Your Phone Model;Your bank information;How many years you are using internet banking application;How many years you are using mobile banking application;Do you find mobile application user-friendly;Internet banking usage frequency;Mobile banking usage frequency;Credit card debt inquiry;Credit card debt payment;Credit card limit transactions;Create & delete virtual card;Virtual card limit transactions;An additional new card application;Opening a new account;Balance check;Loan transaction;Transfer money to previously transferred account.;Transfer money to new account.;Invoice payment (If it is automatic payment than choose 8);Government payments;GSM transactions;Rent payment;Lottery transactions;HGS / OGS transactions;Tax / penalty transactions;SGK transactions;Bill transactions;Salary payment;Investment account transactions;Foreign money exchange transactions;Gold transactions;Investment fund transactions;Stock transactions;Public offering operations;Repo transactions;Bond transactions;Instant stock exchange transactions;Consumer credit usage;My credit accounts;Applying for mortgage ;Applying for car loan;Findeks risk report;New card application;New account opening;Request status;Foreign exchange calculation;Loan calculation;Make an appointment at a bank branch;Donate transactions;View payment schedule;View bank campaigns;Mobile signature use;Communicating with the bank
+1;Man;36-40;Married;;Private sector;SONY;Garanti;15+;7;Yes;9;9;8;8;6;8;8;9;9;8;9;8;8;8;5;4;4;4;0;5;0;;0;0;0;0;0;0;0;5;0;-;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;0
+2;Woman;31-35;Married;purchasing;Private sector;SAMSUNG A5;Akbank;10+;7;Yes;5;5;5;4;3;3;4;3;3;4;5;4;3;5;3;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+3;Woman;20-24;Single;trainer;Private sector;Iphone ;Garanti;0-5;5;No;7;9;5;5;9;0;0;0;0;9;0;9;9;8;8;8;8;0;8;8;8;0;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;9;9;0;0;0;0;9;9;0;0
+4;Woman;20-24;Single;trainer;Private sector;Iphone ;Z?RAAT;0-5;5;No;7;9;5;5;9;0;0;0;0;9;0;9;9;8;8;8;8;0;8;8;8;0;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;9;9;0;0;0;0;9;9;0;0
+5;Woman;20-24;Single;trainer;Private sector;Iphone ;Isbank;0-5;5;No;7;9;5;5;9;0;0;0;0;9;0;9;9;8;8;8;8;0;8;8;8;0;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;9;9;0;0;0;0;9;9;0;0
+6;Man;25-30;Single;;Private sector;SAMSUNG S6;Akbank;0-5;3;Yes;5;6;0;0;0;9;9;0;0;5;0;4;3;5;5;4;0;0;0;0;0;0;0;9;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;9;0;0;0
+7;Man;25-30;Single;computer engineer;Private sector;LG;Garanti;0-5;3;Yes;5;6;5;5;3;0;0;0;0;0;0;3;0;9;9;9;9;9;0;0;0;0;0;0;0;0;0;0;0;0;0;3;3;3;0;0;0;0;0;0;3;0;0;0;9;5;0;4
+8;;25-30;;computer engineer;Private sector;HTC;Akbank;0-5;3;No;9;9;5;4;4;0;0;0;0;7;;4;9;4;4;4;4;;9;9;9;9;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;0;0;5;5;0;0
+9;Man;25-30;Single;Engineer;Private sector;ASUS;Akbank;0-5;3;Yes;7;7;5;5;3;3;3;3;3;3;3;5;3;5;3;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10;Man;25-30;Single;Engineer;Private sector;ASUS;Isbank;0-5;3;Yes;5;5;4;4;3;3;3;3;3;3;3;3;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+11;Man;25-30;Single;Engineer;Private sector;ASUS;Ziraat;0-5;3;Yes;3;3;0;0;0;0;0;0;0;0;0;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+12;Woman;25-30;Married;computer engineer;Private sector;Nokia;Akbank;0-5;3;No;5;5;5;4;3;0;0;0;0;5;3;5;3;9;4;4;4;4;0;0;0;0;4;4;4;4;0;0;-;-;-;4;4;4;4;-;-;-;0;0;0;0;0;3;5;4;0;4
+13;Woman;25-30;Married;computer engineer;Private sector;Galaxy S4;Akbank;10+;6;Yes;6;6;5;9;0;0;0;9;9;6;0;9;9;9;9;5;9;9;0;0;0;0;9;0;9;9;0;0;0;0;0;0;0;0;0;0;0;9;9;9;9;9;9;9;9;9;9;9
+14;Woman;25-30;Married;computer engineer;Private sector;Galaxy S4;Garanti;10+;6;Yes;6;6;5;9;0;0;0;9;9;6;0;9;9;9;9;5;9;9;0;0;0;0;9;0;9;9;0;0;0;0;0;0;0;0;0;0;0;9;9;9;9;9;9;9;9;9;9;9
+15;Woman;25-30;Married;computer engineer;Private sector;Galaxy S4;Isbank;10+;6;Yes;6;6;5;9;0;0;0;9;9;6;0;9;9;9;9;5;9;9;0;0;0;0;9;0;9;9;0;0;0;0;0;0;0;0;0;0;0;9;9;9;9;9;9;9;9;9;9;9
+16;Man;20-24;Single;computer engineer;Private sector;LG;Ziraat;0-5;3;Yes;3;7;5;4;0;3;3;3;3;7;0;5;3;0;3;4;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+17;Man;20-24;Single;computer engineer;Private sector;LG;Akbank;0-5;3;No;6;6;0;0;0;0;0;0;0;7;0;5;3;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;;;;;;;;;0
+18;Woman;25-30;Single;computer engineer;Private sector;LG;Garanti;4-6;6;Yes;5;5;4;4;0;3;8;0;0;5;0;4;3;9;4;4;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;4;0;0;3
+19;Woman;25-30;Single;computer engineer;Private sector;LG;Akbank;0-5;3;No;3;5;4;4;0;3;4;0;0;5;0;5;4;0;4;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+20;Woman;25-30;Single;computer engineer;Private sector;LG;Finansbank;0-5;3;No;3;5;0;0;0;0;0;0;0;0;0;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+21;Woman;20-24;Single;Engineer;Private sector;Iphone;Akbank;0-5;3;No;3;7;7;7;0;0;0;0;0;7;0;7;3;9;3;4;4;0;0;0;0;0;4;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;7;0;3
+22;Woman;20-24;Single;Engineer;Private sector;Iphone;Finansbank;0-5;3;Yes;0;7;0;0;0;0;0;0;0;7;7;;3;9;0;9;0;0;0;0;0;0;0;0;7;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7;3;0;0;3;5;0;0
+23;Woman;20-24;Single;Engineer;Private sector;Iphone;ING;0-5;3;No;0;5;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7;0;0
+24;Woman;20-24;Single;Engineer;Private sector;Iphone;Isbank;4-6;6;Yes;3;8;7;7;0;0;0;0;0;7;0;7;3;9;3;4;4;0;0;3;3;0;4;5;5;5;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;3;0;4;5;7;0;3
+25;Man;25-30;Married;computer engineer;Private sector;Iphone 6;Akbank;;7;Yes;3;4;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+26;Man;20-24;Single;computer engineer;Private sector;LG V10;Akbank;0-5;3;Yes;4;7;0;0;0;0;0;0;9;9;0;5;4;5;9;4;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;9;0;3;0;0;4;0;5;0;3
+27;Woman;31-35;Married;"credit expert";Private sector;Iphone 5;Yapi Kredi;5-10;7;Yes;5;5;5;9;9;9;9;9;9;4;5;4;9;9;9;0;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+28;Man;25-30;Married;computer engineer;Private sector;Iphone  6;Garanti;5-10;7;Yes;6;7;5;9;9;9;9;9;0;5;9;4;9;9;9;9;9;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+29;Man;31-35;Married;Engineer;Private sector;Samsung;Garanti;5-10;6;Yes;4;4;4;4;9;9;3;0;0;5;9;4;9;9;9;;;;9;9;9;9;3;3;3;9;;;-;-;-;-;0;-;-;-;-;9;-;9;;9;-;-;-;9;0;9
+30;Man;31-35;Married;Engineer;Private sector;Samsung;Akbank;5-10;6;Yes;4;4;4;4;9;9;3;0;0;5;9;4;9;9;9;;;;9;9;9;9;3;3;3;9;;;-;-;-;-;0;-;-;-;-;9;-;9;;9;-;-;-;9;0;9
+31;Woman;25-30;Single;computer engineer;Private sector;Iphone ;Akbank;5-10;3;Yes;6;6;4;4;0;0;0;0;0;4;0;4;4;0;0;0;4;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;3;4;0;0;0;0;0;0;0;0;0;0;4;4;0;0
+32;Woman;25-30;Single;;Private sector;SONY XPER?A 75;Garanti;Never;3;No;1;3;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;;;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1
+33;Woman;25-30;Single;;Private sector;SONY XPER?A 75;Akbank;0-5;3;Yes;0;7;4;4;3;3;4;0;0;5;0;3;3;;5;5;5;0;0;0;0;0;0;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+34;Man;20-24;Single;Software Engineer;Private sector;SONY Z2;Akbank;Never;3;No;1;5;1;1;1;1;1;1;1;7;1;1;5;8;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1
+35;Man;25-30;Single;computer engineer;Private sector;Iphone 6;Garanti;0-5;3;Yes;5;7;5;4;0;0;0;0;3;4;0;3;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;4;3;0;0;0;3;0;3
+36;Man;25-30;Single;computer engineer;Private sector;Iphone 6;Akbank;0-5;3;No;5;7;5;4;0;0;0;0;0;4;4;4;5;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;5;3;0;0;4;3;0;3
+37;Man;50+;Married;Retired;Private sector;Nokia;Ziraat;Never;0;Yes;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1
+38;Man;36-40;Married;Not working ;Not working ;Android;YOK;Never;0;NO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+39;Man;45-50;Single;public servant;Private sector;;Isbank;5-10;3;Yes;5;7;4;5;0;0;0;0;0;5;0;4;0;5;5;0;0;0;0;3;3;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;3;0;0;0;0;0;0;0;0;9;0;3
+40;Man;50+;Married;public servant;Not working ;;Isbank;5-10;3;No;4;4;0;0;0;;;;;0;;;;5;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+41;Woman;45-50;; public servant;;;Garanti;5-10;3;Yes;7;0;9;9;0;0;0;0;0;0;9;9;9;0;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+42;Woman;;Married; public servant;Public institution ;;Garanti;0-5;3;No;7;0;9;9;0;0;0;0;0;9;0;9;0;0;9;9;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+43;Man;25-30;Married; public servant;Public institution ;Samsung;Ziraat;0-5;3;Yes;7;8;7;4;9;9;0;0;0;6;0;0;0;5;4;4;0;0;;0;0;0;0;0;4;4;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;7;0;0
+44;Man;50+;Married;;Public institution ;;Garanti;5-10;3;Yes;4;3;0;0;0;0;0;0;0;9;9;9;0;0;3;0;0;0;3;0;0;9;0;9;0;0;0;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+45;Man;50+;Married;;Public institution ;;Ziraat;5-10;3;Yes;4;3;0;0;0;0;0;0;0;9;9;9;0;0;3;0;0;0;3;0;0;9;0;9;0;0;0;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+46;Man;45-50;Married;;Public institution ;;Ziraat;0-5;;Yes;5;5;0;0;0;0;0;0;0;0;0;0;0;9;0;0;0;0;3;0;0;0;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+47;Woman;41-45;Single;;Public institution ;Samsung;Ziraat;Never;0;No;3;3;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1
+48;Woman;31-35;Single; public servant;Public institution ;Iphone;Ziraat;5-10;3;Yes;7;6;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;-;-;-;-;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;0;0;0;0;9;9;9;9;9;0
+49;;50+;Married;;Public institution ;Smartphone;Garanti;Never;0;NO;1;1;1;5;3;1;1;1;1;1;1;1;1;Several times in a day;1;4;4;1;1;1;1;1;4;1;1;1;1;1;1;1;1;1;3;3;1;-;1;1;1;1;1;1;1;1;3;1;1;1
+50;;50+;Married;;Public institution ;Smartphone;Vakifbank;Never;0;NO;1;1;1;5;3;1;1;1;1;1;1;1;1;Several times in a day;1;4;4;1;1;1;1;1;4;1;1;1;1;1;1;1;1;1;3;3;1;-;1;1;1;1;1;1;1;1;3;1;1;1
+51;Man;25-30;Married; public servant;;Iphone;Yapi Kredi;;6;No;9;9;5;5;3;3;3;3;3;7;7;9;6;5;5;5;5;0;0;0;0;0;0;4;4;4;0;-;3;5;3;3;3;9;3;9;3;9;9;0;9;8;0;9;7;0;0;9
+52;Man;45-50;Married; public servant;Public institution ;Samsung;Ziraat;0-5;3;NO;3;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+53;Woman;25-30;Single; public servant;;Iphone 6;Garanti;0-5;;Yes;9;9;5;4;9;9;9;9;3;5;0;;;4;3;0;3;0;0;0;0;0;0;0;0;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+54;Woman;41-45;;public servant;Public institution ;Samsung Note 3;Ziraat;0-5;3;No;5;7;4;4;4;4;;0;0;6;6;;3;9;;3;4;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;3;3;4;3
+55;Woman;41-45;;public servant;Public institution ;Samsung Note 3;Garanti;0-5;3;No;5;7;4;4;4;4;;0;0;6;6;;3;9;;3;4;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;3;3;4;3
+56;Woman;41-45;;public servant;Public institution ;Samsung Note 3;Vakifbank;0-5;3;No;5;7;4;4;4;4;;0;0;6;6;;3;9;;3;4;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;3;3;4;3
+57;Man;41-45;Married;;Public institution ;Iphone 5;Ziraat;10+;6;Yes;3;7;5;4;3;3;3;3;3;8;3;5;3;9;3;0;0;0;3;3;-;-;-;6;3;3;-;6;-;3;-;6;;;;-;-;3;3;-;-;-;-;-;5;3;3;3
+58;Man;41-45;Married;;Public institution ;Iphone 5;Isbank;10+;6;Yes;3;7;5;4;3;3;3;3;3;8;3;5;3;9;3;0;0;0;3;3;-;-;-;6;3;3;-;6;-;3;-;6;;;;-;-;3;3;-;-;-;-;-;5;3;3;3
+59;Man;41-45;Married;;Public institution ;Iphone 5;Vakifbank;10+;6;Yes;3;7;5;4;3;3;3;3;3;8;3;5;3;9;3;0;0;0;3;3;-;-;-;6;3;3;-;6;-;3;-;6;;;;-;-;3;3;-;-;-;-;-;5;3;3;3
+60;Man;25-30;Single; public servant;Public institution ;Samsung;Isbank;0-5;3;No;9;9;9;9;9;9;9;9;9;9;0;9;9;9;9;9;9;0;0;0;0;0;0;9;-;-;-;9;-;0;0;9;0;0;0;0;0;9;9;9;0;0;0;0;0;9;0;0
+61;Man;31-35;Single; public servant;Public institution ;Samsung;Ziraat;5-10;0;Yes;5;0;9;3;3;0;0;0;0;9;3;3;0;0;3;9;0;3;0;3;0;0;9;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;9;0;0;9;9;0;0
+62;Man;36-40;Married;interpreter;Private sector;Iphone 6;Garanti;5-10;7;Yes;8;8;6;6;3;9;9;0;0;8;8;0;0;5;5;5;5;0;0;9;9;0;0;0;9;0;0;0;0;9;9;0;0;0;9;0;0;0;0;9;9;9;0;0;0;0;0;9
+63;Man;36-40;Married; public servant;Public institution ;Samsung Note 4;Ziraat;5-10;6;Yes;7;7;5;4;4;4;4;0;0;5;0;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;9;0;0;0;9;0;0;0;0;0;0;0;0;0;0
+64;Man;36-40;Married; public servant;Public institution ;Lenovo A7000;Ziraat;10+;3;NO;9;9;0;9;0;0;0;0;0;5;0;5;5;9;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;0;9;0;0;9;0
+65;Woman;41-45;Single; public servant;Public institution ;HTC DES?RE;Ziraat;5-10;0;Yes;5;0;4;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;0;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+66;Man;45-50;Married;;Public institution ;Samsung;Ziraat;10+;6;No;7;7;5;5;3;0;0;0;3;7;7;4;3;9;;0;0;4;3;3;0;0;0;3;3;3;3;3;-;-;-;-;-;-;-;-;-;-;0;0;0;0;9;0;5;0;0;4
+67;Woman;45-50;Single; public servant;Public institution ;Iphone;Vakifbank;5-10;6;Yes;4;5;4;4;4;0;0;0;0;4;0;5;3;0;0;4;4;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;9;9;9;9;9;0;0;0;0;0;0;0;0;0;0;0
+68;Man;50+;Married; public servant;Public institution ;Samsung;Garanti;0-5;;Yes;7;0;7;4;3;0;0;0;0;7;7;7;7;7;0;0;0;0;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7;3;0;0;5;5;0;0
+69;Man;41-45;Married; public servant;Public institution ;Samsung Note 4;Garanti;10+;6;Yes;7;6;5;5;9;0;0;0;0;0;0;5;5;0;5;0;4;0;9;3;0;0;0;0;0;0;0;0;0;0;0;0;3;5;0;0;0;0;0;0;0;0;0;0;4;5;0;0
+70;Man;50+;Married; public servant;Public institution ;Samsung;Garanti;0-5;3;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+71;Woman;50+;Single; public servant;Public institution ;Iphone ;Ziraat;0-5;3;No;5;5;0;0;0;0;0;0;0;5;5;5;5;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;-;-;-;-;-;-;-;-;-;0;0;0;0;0;0;0;0;0;0
+72;Man;31-35;Married;;Public institution ;LG G3;Vakifbank;5-10;6;Yes;7;7;4;9;9;0;0;9;9;6;3;4;9;9;4;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;0;9;5;0;5;0
+73;Man;31-35;Married;;Public institution ;LG G3;Garanti;5-10;6;Yes;7;7;4;9;9;0;0;9;9;6;3;4;9;9;4;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;0;9;5;0;5;0
+74;Woman;50+;Single; public servant;Public institution ;;Akbank;0-5;3;Yes;5;5;0;4;0;0;0;0;0;4;0;5;3;8;4;4;4;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;9;0;0;0;0;0;0;0;0;0;0;5;0;0;3
+75;;45-50;Single;;Public institution ;Samsung;Ziraat;5-10;6;Yes;5;7;4;4;3;9;9;9;3;;;3;3;;4;4;4;3;4;4;3;3;4;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;3;3;3;3;4;5;4;3;4;4
+76;;45-50;Single;;Public institution ;Samsung;Garanti;5-10;6;Yes;5;7;4;4;3;9;9;9;3;;;3;3;;4;4;4;3;4;4;3;3;4;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;3;3;3;3;4;5;4;3;4;4
+77;Woman;45-50;Married; public servant;Public institution ;Iphone;Garanti;5-10;3;Yes;4;4;6;4;9;9;9;0;0;5;9;5;4;4;9;9;9;0;9;0;0;0;0;0;9;0;0;0;0;-;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;0;0;0
+78;Man;25-30;Single; public servant;Public institution ;Samsung S3;Vakifbank;0-5;3;Yes;9;9;5;4;0;0;0;0;0;6;0;3;5;4;4;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+79;Man;25-30;Single; public servant;Public institution ;Samsung S3;Ziraat;0-5;3;Yes;9;9;5;4;0;0;0;0;0;6;0;3;5;4;4;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+80;;50+;Married;;Public institution ;Iphone;Halk Bank;0-5;6;No;7;;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+81;Man;;; public servant;Public institution ;Iphone;Halk Bank;0-5;3;No;4;4;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+82;;25-30;Single; public servant;Public institution ;Samsung;Ziraat;0-5;3;No;5;5;5;4;4;0;0;0;0;4;3;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+83;Woman;41-45;Single; public servant;Public institution ;Iphone;Isbank;5-10;6;Yes;4;9;5;4;0;0;0;0;0;5;4;4;4;9;9;0;4;0;0;0;0;0;0;9;8;3;9;7;-;-;-;-;-;-;-;-;-;-;9;9;3;3;-;3;8;8;9;5
+84;Woman;25-30;Married;;Private sector;Iphone 7;-;0-5;;No;9;9;4;4;5;0;0;0;0;4;0;5;3;0;4;4;0;0;0;0;0;0;0;0;0;0;0;0;9;9;3;3;0;3;8;8;0;5;0;0;0;0;0;0;0;0;0;0
+85;Man;25-30;Married;chemist;Not working ;VODEFONE SMART 6;-;0-5;3;Yes;3;3;5;0;0;0;0;0;0;0;0;0;0;0;0;9;0;9;0;0;0;0;0;0;0;0;0;0;-;-;-;-;-;-;-;-;-;-;0;0;0;0;0;0;0;0;0;0
+86;Woman;45-50;Married;teacher;Public institution ;Iphone 6+;-;0-5;3;No;5;5;5;4;0;0;0;0;0;5;0;5;5;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+87;Man;36-40;Married;teacher;Public institution ;Nokia E5;-;0-5;3;No;5;5;7;4;6;0;0;0;0;7;0;0;0;0;0;0;0;0;5;5;5;5;5;5;5;5;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;4;0;0
+88;Man;50+;Married;public servant;Public institution ;L G;-;0-5;3;No;4;4;4;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;5;5;5;5;5;5;5;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+89;Woman;31-35;Married;Not working ;Not working ;Samsung;-;;3;No;5;4;5;0;0;0;0;0;0;0;0;0;0;0;0;9;0;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+90;Man;25-30;Single; public servant;Public institution ;Sony;-;0-5;3;Yes;4;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;5;0;0
+91;Man;36-40;Married;;Private sector;Samsung Note 5;-;;7;Yes;4;6;6;4;3;0;0;0;9;5;4;6;5;9;5;0;0;0;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+92;;36-40;Married;Not working ;Not working ;;-;Never;0;No;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;4;4;1;1;1;1;1;1;1;1;1;1;2;1;2;2;1;1;1;1
+93;Man;31-35;Married;Miner worker;Public institution ;Samsung J5;-;5-10;6;Yes;8;8;4;4;0;0;0;0;0;9;0;4;0;9;0;9;0;9;9;9;0;0;0;9;9;9;9;9;0;0;0;0;0;0;0;0;0;0;0;9;0;0;0;0;0;0;0;0
+94;Man;50+;Married;Machine engineer;Private sector;VODEFONE SMART 6;-;5-10;6;Yes;6;7;9;4;3;3;3;0;3;9;9;9;0;9;9;4;4;0;9;9;0;0;9;0;0;0;0;0;9;9;0;0;0;9;9;9;9;9;0;0;0;0;0;0;0;0;0;0
+95;Man;20-24;Single;;Private sector;Asus ZenFone;Garanti;0-5;3;Yes;6;7;5;4;4;0;0;0;0;6;3;0;0;0;3;4;0;0;0;9;0;0;0;0;0;0;0;0;0;0;0;0;9;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+96;Woman;41-45;Married;teacher;Public institution ;Smartphone;-;Never;0;No;1;1;2;1;2;2;1;1;1;2;2;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;-;-;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1
+97;Woman;31-35;Married;Teacher;Public institution ;Smartphone;-;0-5;0;No;5;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;-;-;-;0;0;0;0;-;-;0;0;0;0;0;0;0;0;0;0
+98;Woman;20-24;Single;teacher;;General Mobile;-;0-5;3;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;0;0;0;0;0;0;0;0;0;0;0
+99;Woman;36-40;Married;;Public institution ;General Mobile;;Never;0;No;1;1;3;1;3;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;2;2;2;2;2
+100;Man;25-30;Married;teacher;Public institution ;Samsung;-;5-10;6;Yes;8;5;0;4;4;4;3;0;0;0;0;0;0;9;4;4;0;0;9;9;9;9;9;0;9;9;9;9;0;0;0;0;0;0;0;0;0;0;9;9;9;9;0;9;9;4;3;9
+101;Man;31-35;Married;teacher;Public institution ;Iphone 4S;-;5-10;6;Yes;7;7;7;4;3;3;3;0;0;7;3;5;3;9;3;0;4;0;0;9;9;0;0;9;0;0;0;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;0
+102;Man;25-30;Married;teacher;Public institution ;Smartphone;-;5-10;6;Yes;8;5;5;5;5;5;4;0;0;4;0;4;4;4;4;4;0;0;0;0;0;0;0;4;0;4;4;0;0;0;0;9;9;9;0;0;9;0;0;0;0;0;0;0;0;0;;0
+103;Man;36-40;Married;teacher;Public institution ;Samsung A5;-;5-10;3;No;7;7;0;;0;0;0;0;0;6;0;5;5;0;4;4;0;0;3;3;0;0;0;0;0;0;0;0;0;0;0;0;9;4;9;0;0;0;0;0;0;0;0;0;0;0;0;0
+104;Woman;25-30;Married;;Public institution ;Iphone S5;-;0-5;0;No;5;;-;;;;;;;;;;;;;;;;9;-;-;-;-;-;-;-;-;-;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+105;Woman;25-30;Single;teacher;Public institution ;Lenovo A7010;-;5-10;3;No;5;7;5;5;0;0;0;0;0;5;0;5;5;7;3;0;0;0;0;9;0;0;4;0;9;0;0;0;-;-;-;-;-;-;-;-;-;-;0;0;0;0;0;0;0;0;0;0
+106;Woman;25-30;Single;teacher;Public institution ;Samsung  S3;-;Never;0;No;1;1;2;1;1;2;1;1;1;2;1;1;1;1;1;2;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1
+107;Man;36-40;Single;teacher;Public institution ;Samsung;-;Never;0;No;1;1;-;;;;;;;;;;;;;;;;-;-;-;-;-;-;-;-;-;-;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1
+108;Woman;31-35;Single;;Public institution ;Samsung Note 2;-;5-10;0;No;5;0;9;9;9;9;9;9;9;9;9;9;9;9;9;9;0;0;0;0;0;0;4;0;0;0;0;0;-;-;-;-;-;-;-;-;-;-;0;0;0;0;0;3;5;0;0;0
+109;Woman;31-35;Married;;Public institution ;LG G3;-;;;No;7;7;5;4;4;0;0;0;0;5;0;5;3;8;3;5;0;0;3;9;0;5;5;5;0;0;0;0;0;0;0;0;9;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+110;Woman;31-35;Married;teacher;Public institution ;Smartphone;-;;0;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+111;Woman;31-35;Married;;Public institution ;Xiaomi mi 5;-;0-5;0;No;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+112;Woman;31-35;Single;teacher;Public institution ;Smartphone;-;Never;0;No;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;4;4;3;1;1
+113;Woman;31-35;Married;teacher;Public institution ;Iphone;-;5-10;3;No;5;5;4;4;0;0;0;0;0;4;4;4;5;4;0;4;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;-;4;3;-;4;3;3;4;4
+114;Woman;36-40;Married;teacher;Public institution ;Iphone 6;-;0-5;3;No;4;4;4;4;4;3;3;3;6;6;5;4;5;;7;7;7;7;4;4;3;3;4;4;-;3;4;-;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+115;Woman;31-35;Married;teacher;Public institution ;Iphone 6;-;10-15;3;NO;4;0;0;0;0;0;0;0;0;0;0;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;4;3;4;4;-;3;-;3;4;0;0;0;0;0;0;0;0;0;0
+116;Man;41-45;Married;teacher;Public institution ;Huawei 6205;-;Never;0;NO;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1
+117;Man;31-35;Married;teacher;Public institution ;;;Never;0;No;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1
+118;Woman;36-40;Married;teacher;Public institution ;Samsung 7+ Edge;;Never;0;NO;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;2;1;1;1;1;2;2;1;1
+119;Woman;31-35;Married;teacher;Public institution ;Iphone 5;-;0-5;6;Yes;8;6;9;9;9;;0;0;;5;9;5;9;9;5;5;9;0;0;0;9;0;0;0;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+120;Man;36-40;Married;;Public institution ;Samsung;;Never;0;No;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;2;2;1;1;1;1;2;1;3;3;1;1;5;1;1;1
+121;Woman;25-30;Married;teacher;Public institution ;Iphone 7;-;5-10;6;No;7;7;6;4;0;0;0;0;0;6;0;6;3;9;4;4;0;0;3;9;9;0;9;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+122;Woman;41-45;Married;teacher;Public institution ;Iphone 6+;-;0-5;6;Yes;5;0;9;9;;;;;;9;;9;;9;;;;;-;-;-;-;-;-;-;-;-;-;-;-;-;5;0;0;0;0;-;0;0;0;0;0;0;5;3;3;0;3
+123;Man;31-35;Married;teacher;Public institution ;Iphone 7;-;5-10;6;Yes;5;6;4;4;5;0;0;9;9;5;0;3;3;4;9;4;0;0;0;3;0;0;0;4;0;4;0;0;-;-;-;-;-;-;-;-;-;-;9;9;9;9;4;9;4;4;9;3
+124;Woman;25-30;Married;teacher;Public institution ;Samsung Note 2;-;5-10;6;Yes;5;5;7;4;5;0;0;9;0;5;5;5;5;;4;4;4;;9;9;9;-;-;9;4;4;9;9;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+125;Woman;36-40;Married;Engineer;Self-employed ;Genaral Mobile;Akbank;10+;6;Yes;5;5;4;4;4;5;5;0;0;0;0;5;3;9;4;4;4;5;5;0;0;0;4;9;9;9;9;9;9;9;9;9;9;0;0;9;9;9;0;0;0;0;0;0;0;0;0;0
+126;Woman;20-24;Single;Engineer;Private sector;Iphone 7S;Garanti;10+;7;NO;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+127;Woman;45-50;Single;;Public institution ;Samsung S6 EDGE;Yapi Kredi;10+;7;Yes;5;5;9;4;4;0;5;5;0;0;5;0;5;9;5;3;0;0;-;-;-;-;-;-;-;-;-;-;-;0;-;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;4;0
+128;Man;31-35;Married;Engineer;Public institution ;Iphone 4S;Garanti;10+;3;No;7;7;7;4;5;5;5;0;0;7;0;7;3;5;;0;4;5;9;0;0;0;0;4;0;0;0;4;-;-;-;-;-;-;-;-;-;-;0;0;0;0;0;0;0;0;0;0
+129;Man;36-40;Married;Engineer;Public institution ;;Yapi Kredi;10+;3;No;5;4;4;4;0;4;0;0;0;4;0;0;0;0;0;0;0;0;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+130;Man;31-35;Married;Engineer;Public institution ;;Akbank;;7;Yes;3;3;0;9;0;0;0;0;0;9;;3;3;0;3;0;0;0;3;3;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+131;Man;41-45;Married;Engineer;Public institution ;;Yapi Kredi;5-10;6;Yes;4;4;4;4;4;4;9;9;9;9;9;9;9;9;9;9;9;0;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0
+132;Woman;41-45;;;Public institution ;Samsung;Garanti;0-5;3;Yes;4;4;4;4;4;4;4;3;9;4;9;9;9;4;9;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;0;0;0;;0;0;0
+133;Woman;;Single;Student;Not working ;Reeder;Ziraat;0-5;3;Yes;4;7;0;0;0;0;0;0;0;7;7;5;3;0;4;4;0;0;0;0;0;0;0;0;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7;0;0;5;0;0;0
+134;Man;25-30;Married;purchasing;Private sector;Lenovo S1 Lite;Garanti;0-5;3;Yes;5;7;4;4;4;0;0;0;0;5;0;4;3;4;5;4;4;5;3;-;0;0;4;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;3;0;0;0
+135;Man;25-30;Married;purchasing;Private sector;Lenovo S1 Lite;Yapi Kredi;0-5;3;Yes;5;7;4;4;4;0;0;0;0;5;0;4;3;4;5;4;4;5;3;-;0;0;4;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;3;0;0;0
+136;Man;25-30;Married;purchasing;Private sector;Lenovo S1 Lite;Akbank;0-5;3;Yes;5;7;4;4;4;0;0;0;0;5;0;4;3;4;5;4;4;5;3;-;0;0;4;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;3;0;0;0
+137;Man;20-24;Single;Information Engineer;Private sector;Samsung;Akbank;0-5;;Yes;5;6;4;4;0;9;9;0;0;4;4;4;4;9;9;4;9;9;4;3;9;9;4;3;3;9;9;9;0;0;0;0;0;0;0;0;0;0;0;3;3;9;9;9;9;9;9;0
+138;Man;25-30;Single;Engineer;Private sector;Iphone 6;Akbank;0-5;;Yes;9;8;7;4;3;3;3;0;9;7;6;6;4;5;5;4;4;4;3;3;9;9;9;9;3;3;3;0;0;0;9;9;9;3;9;9;9;0;0;9;6;9;0;9;9;9;0;3
+139;Man;20-24;Single;computer engineer;Private sector;Iphone 6;Akbank;0-5;;No;6;0;0;0;0;0;0;0;0;6;0;0;0;0;5;4;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;5;4;0;0
+140;Man;25-30;Single;Software Engineer;Private sector;Asus;Akbank;10+;;Yes;7;7;5;4;3;3;3;9;9;5;9;6;6;6;6;6;6;0;0;3;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;5;0;0
+141;Woman;36-40;Married;Software Engineer;Private sector;Samsung S3;;10+;;Yes;7;0;9;9;9;0;0;0;0;9;0;9;9;9;9;9;9;0;3;3;0;0;0;0;9;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;9;0;9;0;0;0;9
+142;Woman;31-35;Married;computer engineer;Private sector;Samsung;Akbank;10+;;Yes;7;5;4;4;3;0;0;0;3;6;0;5;3;5;0;3;0;0;0;0;0;0;4;3;3;3;0;0;0;0;0;0;0;0;0;0;0;0;3;3;3;0;0;0;4;3;0;0
+143;Woman;20-24;Single;Engineer;Private sector;Iphone 6;Akbank;0-5;;No;7;8;0;0;3;0;0;0;9;4;5;4;9;9;9;9;9;9;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;3;3;0;0;9;9;0;9;0;9
+144;Woman;31-35;Married;Engineer;Private sector;Smartphone;Akbank;0-5;;Yes;5;5;4;4;0;0;0;0;3;3;3;5;3;0;3;0;0;0;3;3;0;0;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;3;3;3;0;3;0;3;3;0;0;9
+145;Man;20-24;Single;computer engineer;Private sector;Iphone 6;Akbank;10+;;No;0;7;6;4;6;3;4;9;0;3;5;5;5;5;5;5;5;5;0;0;0;0;4;3;3;0;0;0;0;0;0;0;3;3;0;0;0;0;0;0;0;0;4;4;0;0;0;0
+146;Woman;31-35;Married;Not working ;Private sector;Samsung;;0;0;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+147;Woman;31-35;Single;Not working ;Private sector;Samsung;;0;0;NO;0;0;;0;0;0;0;0;0;0;0;0;4;4;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+148;Man;31-35;Married;teacher;Public institution ;Samsung;Yapi Kredi;5+;3;Yes;9;9;6;5;3;3;3;0;9;7;0;0;0;0;7;0;0;0;0;0;0;0;0;7;7;7;0;7;0;0;0;7;0;0;0;0;0;0;3;3;3;0;0;0;6;0;0;0
+149;Woman;31-35;Married;teacher;Public institution ;Iphone 5S;Yapi Kredi;0-5;0-5;Yes;5;5;4;3;0;0;0;0;5;4;0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;3;3;0;9
+150;Woman;36-40;Married;teacher;Private sector;Samsung j5;Ziraat;5+;3+;Yes;9;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;0;9;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0
+151;Woman;41-45;Single;teacher;Private sector;Casper;Akbank;0;3;Yes;5;6;5;0;3;0;9;5;0;3;3;9;0;0;0;0;0;0;9;9;9;9;9;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+152;Woman;41-45;Single;teacher;Private sector;Casper;Yapi Kredi;0;3;Yes;5;6;5;0;3;0;9;5;0;3;3;9;0;0;0;0;0;0;9;9;9;9;9;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+153;Man;25-30;Single;teacher;Public institution ;Samsung S6 EDGE;Vakifbank;0-5;4+;No;6;9;7;5;3;3;5;3;3;5;3;3;3;9;4;4;4;0;0;9;9;0;0;0;0;0;0;0;0;0;0;0;3;3;0;0;0;3;0;3;0;0;0;0;3;0;3;5
+154;Man;41-45;Married;teacher;Public institution ;General mobile;Yapi Kredi;0-5;3;Yes;5;0;0;0;0;0;0;0;0;9;9;9;0;9;9;0;0;0;0;9;0;0;0;0;0;0;0;0;0;0;0;0;9;9;0;0;0;0;0;0;0;9;0;9;0;9;0;9
+155;Woman;45-50;Single;teacher;Public institution ;Iphone 5S;Yapi Kredi;0-5;3;NO;0;5;5;8;0;0;0;0;0;3;9;0;3;9;0;3;0;0;0;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;0;0
+156;Man;36-40;Married;teacher;Public institution ;Samsung S3;Akbank;5+;4+;No;5;6;5;4;3;0;0;0;0;6;0;4;3;0;4;3;4;0;0;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7;0
+157;Man;36-40;Married;teacher;Public institution ;Samsung S3;Yapi Kredi;5+;4+;No;5;6;5;4;3;0;0;0;0;6;0;4;3;0;4;3;4;0;0;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7;0
+158;Man;31-35;Married;health servant;Not working ;Samsung j;0;5+;0;Yes;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+159;Man;25-30;Married;Not working ;Self-employed ;LG;0;0-5;0-3;Yes;4;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+160;Woman;31-35;Married;Not working ;Not working ;Sony;0;10+;7+;Yes;3;3;9;9;9;9;9;9;9;9;9;0;0;4;4;4;4;0;4;4;4;0;0;0;0;9;0;0;0;0;0;9;0;0;0;0;0;0;0;0;9;9;9;0;0;0;0;0
+161;Woman;41-45;Married;Not working ;Private sector;Iphone ;0;5+;0-3;Yes;4;4;4;4;4;0;0;0;0;4;0;9;9;4;4;4;0;0;0;0;0;0;0;9;9;9;0;0;0;0;0;9;9;0;0;0;0;0;9;9;9;9;9;0;0;0;0;0
+162;Woman;25-30;Single;Not working ;Public institution ;Asus;0;0-5;0-3;Yes;5;5;4;4;4;9;9;0;0;4;9;9;9;9;0;0;0;0;9;9;9;0;0;0;9;9;9;9;9;9;9;9;9;0;0;0;0;0;0;9;9;9;9;0;0;0;0;0
+163;Man;31-35;Married;Not working ;Public institution ;Iphone ;0;0-5;0-3;Yes;0;0;0;0;0;0;0;0;0;0;4;4;4;4;4;4;4;0;4;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+164;Woman;25-30;Single;Not working ;Private sector;Asus;0;0-5;0-3;NO;3;3;9;9;9;9;9;9;9;9;9;4;4;4;4;4;9;9;0;0;0;9;9;9;9;9;9;9;9;9;9;0;9;9;0;9;9;9;0;9;9;9;9;0;0;0;0;0
+165;Man;31-35;Married;Accountant;Private sector;0;0;5+;0-3;Yes;4;4;9;9;9;9;9;9;9;9;9;4;4;4;4;4;4;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;0;0;0;9;9;9;9;0;0;0;0;0
+166;Man;36-40;Married;Engineer;Public institution ;Iphone;0;5+;4+;Yes;4;4;9;9;9;9;9;9;0;9;0;5;5;4;4;4;0;0;9;9;9;9;9;9;9;9;9;0;0;0;0;0;0;0;9;9;9;9;9;9;9;9;0;0;0;0;0;0
+167;Man;50+;Married;Retired;Public institution ;Samsung;0;15+;7+;NO;4;4;9;9;9;9;9;9;9;9;9;9;9;4;9;9;9;0;9;9;9;9;9;9;9;9;0;0;0;0;0;0;0;0;0;0;0;0;0;9;9;9;9;0;0;0;0;0
+168;Woman;41-45;Married;Artisan;Private sector;Samsung;0;10+;7+;NO;4;4;0;0;0;0;0;0;0;9;9;4;4;4;4;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;9;9;0;0;0;0;9;0
+169;Woman;25-30;Married;Not working ;Public institution ;Samsung;0;Never;Never;NO;4;4;9;9;9;9;9;0;0;9;9;4;4;4;4;4;4;0;9;9;9;9;9;9;9;9;9;9;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+170;Man;31-35;Married;Nurse;Public institution ;Iphone 5S;0;10+;7+;Yes;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+171;Man;31-35;Single;Artisan;Private sector;Iphone 5S;0;0-5;0-3;Yes;9;9;4;4;4;0;0;3;3;4;4;0;0;;0;0;4;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+172;Man;31-35;Married;Artisan;Private sector;General mobile;0;0;0-3;Yes;4;4;0;0;4;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+173;Man;20-24;Single;Not working ;Self-employed ;0;0;0-5;0-3;Yes;5;4;9;4;3;3;0;0;0;9;0;4;4;9;0;0;0;0;5;5;3;0;4;0;0;0;0;0;0;0;0;0;3;0;0;0;0;9;3;0;0;9;0;9;0;9;8;8
+174;Man;41-45;Married;artisan;Private sector;Iphone 5S;0;5+;4+;Yes;4;4;4;4;4;9;9;0;0;9;9;4;4;4;4;4;0;0;4;4;4;0;0;0;9;9;9;9;9;9;9;9;9;9;0;0;0;0;0;0;9;9;9;9;0;0;0;0
+175;Woman;20-24;Single;Teller;Private sector;HTC ;0;0-5;0-3;Yes;8;8;3;5;4;0;0;3;3;5;0;3;3;4;4;4;0;0;4;0;3;0;0;3;5;0;0;0;0;0;0;3;5;5;0;0;4;0;3;0;0;3;0;3;3;3;0;5
+176;Woman;36-40;Married;Not working ;Not working ;LG;0;5+;0-3;No;8;8;7;5;4;3;0;0;9;7;4;5;5;8;7;7;4;0;3;3;4;3;4;5;5;0;3;9;9;0;5;0;3;4;3;3;0;0;0;9;5;5;9;3;3;5;6;4
+177;Woman;25-30;Married;Nurse;Private sector;Samsung;0;0-5;0-3;No;4;4;3;3;3;9;9;9;9;9;9;4;4;4;4;4;4;3;0;3;0;0;0;0;9;9;9;9;9;9;9;9;9;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+178;Man;41-45;Married;Not working ;Public institution ;Casper;0;15+;7+;Yes;6;6;7;7;7;0;4;5;4;5;4;4;7;0;4;5;4;4;0;3;4;3;0;0;0;0;0;3;9;9;0;3;0;9;9;9;0;0;0;0;0;0;0;0;9;4;0;4
+179;Woman;25-30;Married;Doctor;Public institution ;Iphone;0;5+;4+;Yes;5;5;4;4;4;0;0;0;0;9;9;4;4;4;4;4;0;0;4;4;4;9;9;9;9;9;9;9;9;0;0;0;0;0;0;0;0;0;0;9;9;9;0;0;0;0;0;0
+180;Woman;36-40;Married;teacher;Private sector;ASUS;0;5+;0-3;Yes;7;7;4;4;5;0;0;0;9;4;3;5;5;7;4;4;4;0;5;4;4;4;4;4;5;5;4;0;9;0;3;4;3;4;0;3;9;0;3;3;0;3;3;5;4;6;6;5
+181;Man;31-35;Married;Nurse;Public institution ;Samsung;0;0-5;0-3;Yes;6;6;4;4;4;0;0;3;4;4;0;4;4;5;5;4;4;0;4;3;4;0;4;0;3;0;0;0;0;0;0;3;4;0;3;3;0;0;0;0;3;4;5;3;6;6;6;4
+182;Woman;20-24;Single;Electrical Engineer;Private sector;Xperia;0;0-5;0-3;Yes;5;5;4;4;3;0;0;0;0;4;4;4;4;8;4;4;4;0;4;4;4;0;4;0;0;0;0;0;0;0;0;0;4;0;3;3;0;0;0;0;0;3;4;0;4;4;4;5
+183;Woman;31-35;Married;Computer engineer;Public institution ;LG;0;5+;4+;Yes;7;7;4;4;3;0;0;3;3;4;5;5;5;8;4;4;4;0;5;5;4;3;4;3;5;4;5;0;3;0;3;6;4;4;4;4;3;0;0;5;6;5;6;4;5;5;6;4
+184;Man;41-45;Married;Not working ;Private sector;LG G3;0;0-5;0-3;Yes;4;4;9;9;9;9;9;9;9;9;9;4;4;4;4;4;4;0;9;9;9;9;9;9;9;9;9;4;4;4;4;4;4;9;9;0;0;0;0;0;0;0;0;0;0;0;0;0
+185;Woman;25-30;Married;Not working ;Private sector;;0;0;0-3;Yes;5;7;4;5;0;0;0;0;0;5;5;5;4;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;3;3;0;3
+186;Man;20-24;Married;Student;Not working ;Asus ZenFone Selfie;0;0-5;0-3;Yes;6;5;7;4;0;0;0;0;7;0;7;4;3;8;4;5;4;0;0;9;0;0;0;0;0;9;4;0;9;0;0;9;0;9;9;9;9;0;0;0;0;0;9;0;9;8;6;5
+187;Woman;31-35;Single;Worker;Self-employed ;LG;0;Never;Never;NO;4;4;4;4;4;9;9;0;9;9;9;9;9;4;4;4;4;0;4;9;9;0;9;9;9;9;9;9;9;9;9;9;9;9;0;9;9;0;9;9;9;9;0;9;9;4;4;3
+188;Woman;20-24;Single;Student;Public institution ;Iphone ;Garanti;0-5;0-3;No;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+189;Woman;20-24;Single;Student;Not working ;Iphone ;Garanti;0-5;4+;Yes;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+190;Woman;20-24;Single;Not working ;Self-employed ;Iphone ;Isbank;0-5;0-3;No;4;7;4;4;4;9;9;0;0;4;4;9;9;9;0;9;9;0;9;9;9;9;9;9;9;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;9;9;9;9;0;9
+191;Man;20-24;Single;Student;Not working ;LG G3;Isbank;0-5;0-3;Yes;5;5;9;9;0;9;9;0;0;9;9;9;9;9;0;9;0;0;0;0;0;0;0;9;9;0;0;0;0;0;0;0;9;9;0;0;0;0;0;0;0;0;0;0;0;9;0;0
+192;Woman;20-24;Single;Student;Not working ;Iphone ;Garanti;Never;0-3;Yes;3;9;5;0;5;0;0;0;0;7;0;5;5;3;3;3;0;3;0;0;0;0;0;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;3;0;0;3;3;3;9;3
+193;Man;25-30;Single;Information Engineer;Private sector;Lenovo K5 Vibe;Ziraat;15+;0-3;No;0;5;4;4;9;4;4;4;4;4;4;4;4;4;4;4;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+194;Man;20-24;Single;Not working ;Private sector;Sony;EnPara;0-5;0-3;Yes;6;6;9;0;9;0;0;9;9;5;0;5;3;3;9;9;9;9;0;0;0;0;9;0;5;0;0;0;0;0;0;0;0;0;0;0;9;9;9;9;9;9;0;0;0;4;0;0
+195;;25-30;Married;Information Engineer;Private sector;Iphone 6;Akbank;0-5;0-3;Yes;4;8;0;0;;0;0;0;3;7;0;5;5;0;0;4;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;4;0;0;4;0;4;0;3
+196;Man;25-30;Single;Software Engineer;Private sector;LG G2;Garanti;0-5;4+;Yes;9;9;4;5;8;3;9;9;9;9;9;7;5;5;5;5;0;0;0;0;0;0;0;5;5;5;0;0;0;0;0;0;0;0;0;0;0;0;9;0;5;5;5;0;3;0;0;5
+197;Man;25-30;Single;Software Engineer;Private sector;LG G2;EnPara;0-5;4+;Yes;3;8;7;4;3;0;0;9;9;7;7;7;5;5;4;4;4;7;5;5;5;5;5;5;5;5;5;5;5;5;5;5;3;5;3;3;0;0;5;5;5;5;5;0;5;5;5;5
+198;Man;25-30;Single;Software Engineer;Private sector;Iphone ;Garanti;0-5;0-3;No;3;8;7;4;3;0;0;9;9;7;7;7;5;5;4;4;4;7;5;5;5;5;5;5;5;5;5;5;5;5;5;5;3;5;3;3;0;0;5;5;5;5;5;0;5;5;5;5
+199;Man;25-30;Single;Not working ;Public institution ;Iphone ;Halk Bank;0-5;0-3;Yes;9;9;4;4;4;4;4;3;0;7;0;3;3;9;9;9;0;0;0;0;0;0;0;0;3;3;0;0;0;0;0;0;3;3;0;0;0;3;0;0;3;3;0;0;3;3;0;5
+200;Man;25-30;Single;Engineer;Private sector;Iphone 7;DEN?ZBANK;10+;7+;Yes;7;7;7;4;3;5;5;0;0;0;;5;5;5;3;4;0;0;3;3;0;0;3;3;3;3;3;3;3;0;3;3;3;5;0;0;0;0;0;0;3;3;0;3;3;3;7;0
+201;Man;25-30;Married;Software Engineer;Private sector;0;0;5+;4+;Yes;8;8;9;9;4;0;9;0;0;9;9;0;9;8;7;4;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;3;4;0;9;9;9;0;9;0;5;0;0;0;4;0;3
+202;Woman;25-30;Married;Teller;Private sector;Iphone 7;Garanti;0-5;4+;Yes;5;7;5;4;3;3;5;0;0;7;0;5;3;4;4;4;4;7;0;3;0;0;0;0;0;0;0;0;0;0;0;0;3;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0
+203;Woman;36-40;Single;Teller;Private sector;Iphone ;Garanti;5+;4+;No;9;9;5;4;3;4;4;3;3;7;3;;3;9;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;3;0;0;0;3;3;3;0;0;0;0;4;6;0;0
+204;Man;36-40;Married;Information Engineer;Private sector;Iphone ;Garanti;15+;7+;Yes;7;8;7;5;3;9;3;9;9;9;9;7;7;8;7;0;0;0;0;3;3;0;0;0;3;0;0;0;0;0;0;0;3;3;0;0;0;0;3;3;3;3;0;0;5;5;0;0
+205;Man;31-35;Married;Information Engineer;Private sector;Samsung Note 4;Garanti;10+;4+;Yes;9;9;4;4;3;3;7;9;3;3;0;7;7;4;4;4;4;0;3;4;4;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+206;Man;25-30;Single;Electronic Engineer;Private sector;LG G4;Finansbank;5+;4+;Yes;4;6;7;4;3;3;3;9;9;5;0;9;9;9;9;0;0;0;3;9;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+207;Man;25-30;Single;Servant;Private sector;Samsung;Vakifbank;0-5;0-3;Yes;5;5;5;4;3;0;0;9;0;5;0;5;3;5;0;0;4;0;0;9;0;0;0;0;0;0;0;0;0;0;0;0;9;9;0;0;4;0;0;9;9;9;0;0;4;3;4;0
+208;Man;25-30;Single;Servant;Private sector;Samsung;DEN?ZBANK;0-5;0-3;Yes;8;7;5;4;3;9;9;0;9;7;3;3;3;9;4;0;0;0;0;3;0;0;4;4;3;3;3;0;0;0;0;0;3;3;0;0;3;0;0;0;3;3;0;0;4;0;9;9
+209;Man;31-35;Married;Information Engineer;Private sector;Iphone  5S;Yapi Kredi;5+;4+;No;8;7;5;4;3;9;9;0;9;7;3;3;3;9;4;0;0;0;0;3;0;0;4;4;3;3;3;0;0;0;0;0;3;3;0;0;3;0;0;0;3;3;0;0;4;0;9;9
+210;Man;25-30;Single;Information Analyst;Private sector;Iphone ;DEN?ZBANK;0-5;0-3;Yes;9;9;5;5;5;5;9;3;3;5;3;5;5;5;5;0;4;3;0;0;0;0;0;0;3;3;3;3;3;0;0;0;3;3;0;0;0;0;0;3;4;4;0;3;5;5;3;3
+211;Man;25-30;Single;Information Analyst;Private sector;Samsung S6;EnPara;5+;7+;Yes;9;9;7;0;7;0;0;0;0;0;0;4;5;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;0;0;9;9;0;9
+212;Man;25-30;Single;Information Analyst;Private sector;Samsung S6;Garanti;5+;7+;Yes;4;9;5;4;3;4;4;3;3;8;5;5;5;9;0;0;0;3;3;3;3;0;0;4;6;3;3;5;3;3;3;4;0;0;0;0;0;3;3;4;6;3;0;3;3;4;4;4
+213;Man;36-40;Married;Information Analyst;Private sector;Iphone ;Yapi Kredi;15+;0-3;Yes;4;9;5;4;3;4;4;3;3;8;5;5;5;9;0;0;0;3;3;3;3;0;0;4;6;3;3;5;3;3;3;4;0;0;0;0;0;3;3;4;6;3;0;3;3;4;4;4
+214;Man;25-30;Single;Director;Private sector;Samsung Note 4;Halk Bank;5+;4+;NO;5;5;4;4;4;4;4;4;4;4;4;4;4;3;3;3;3;9;0;9;9;0;9;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;0;3
+215;Man;25-30;Single;Information Engineer;Private sector;Iphone ;Yapi Kredi;10+;0-3;Yes;5;4;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9
+216;Man;25-30;Single;computer engineer;Private sector;Iphone ;Yapi Kredi;5+;4+;Yes;7;7;4;4;3;3;7;0;0;5;0;4;3;9;4;4;0;0;0;0;0;0;0;4;4;4;4;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;4;4;0;0;3
+217;Man;25-30;Single;Information Engineer;Private sector;Samsung  A6;Akbank;5+;4+;Yes;7;7;4;4;3;3;7;3;3;5;3;5;5;3;5;0;0;0;0;0;0;0;0;5;0;5;0;0;0;0;0;0;3;3;0;0;0;0;3;3;5;3;0;0;5;5;0;0
+218;Man;25-30;Single;Information Engineer;Private sector;Samsung  A6;Garanti;5+;4+;Yes;8;8;7;4;4;4;4;0;9;8;0;9;9;9;9;9;9;9;9;9;9;0;9;9;9;9;9;9;0;0;0;9;9;9;9;9;0;0;0;9;9;9;9;0;9;0;0;9
+219;Man;25-30;Single;Software Engineer;Private sector;Iphone 5S;Garanti;10+;4+;Yes;8;8;7;4;4;4;4;0;9;8;0;9;9;9;9;9;9;9;9;9;9;0;9;9;9;9;9;9;0;0;0;9;9;9;9;9;0;0;0;9;9;9;9;0;9;0;0;9
+220;Man;36-40;Married;Information Engineer;Private sector;Iphone 5S;Garanti;10+;4+;Yes;6;6;5;4;9;9;9;9;9;4;4;4;4;9;5;9;4;0;5;3;3;0;0;4;5;5;0;0;0;0;0;0;4;4;0;0;0;9;9;9;5;5;0;0;5;0;0;9
+221;Man;25-30;Single;Electronic Engineer;Private sector;;Yapi Kredi;5+;4+;Yes;7;7;9;4;4;9;4;0;9;4;0;9;9;9;9;0;9;9;9;9;0;0;4;9;9;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;9;9;0;0;0;0;0
+222;Man;31-35;Single;Engineer;Private sector;LG;Yapi Kredi;5+;4+;No;7;7;7;5;7;4;7;9;9;7;7;5;5;9;5;4;4;4;9;9;0;0;0;5;4;4;4;9;0;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;9;0
+223;Man;31-35;Single;Engineer;Private sector;Iphone 5S;Yapi Kredi;0-5;4+;Yes;5;5;5;5;3;3;5;5;3;4;0;4;3;0;3;3;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+224;Man;25-30;Single;Engineer;Private sector;Iphone  5S;Garanti;0;7+;Yes;8;8;7;4;4;4;4;0;9;8;0;9;9;9;0;0;0;9;9;0;0;0;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;0;0;0;9;9;0
+225;Man;20-24;Single;Not working ;Not working ;Samsung AT;Ziraat;0-5;0-3;Yes;7;7;5;4;5;3;4;0;0;7;0;5;3;9;0;3;4;0;0;0;0;0;4;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;3;3;0
+226;Man;25-30;Single;business intelligence developer;Private sector;Iphone 5S;Garanti;0-5;0-3;Yes;3;5;5;4;3;0;0;0;0;5;0;3;3;4;4;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;3
+227;0;25-30;Single;Engineer;Private sector;Iphone ;Yapi Kredi;0-5;4+;Yes;9;9;0;0;0;3;3;3;3;7;0;5;3;5;5;5;0;3;0;0;0;0;0;5;3;3;3;0;0;0;0;0;0;0;0;0;0;3;3;0;0;0;0;0;4;0;0;0
+228;Woman;25-30;Married;Information Engineer;Private sector;Iphone ;Finansbank;5+;4+;Yes;5;7;4;4;5;7;7;3;3;7;0;5;5;9;4;5;4;0;0;0;0;0;0;5;5;5;5;5;3;0;0;5;0;0;0;0;3;3;3;3;3;0;0;3;4;3;0;3
+229;Woman;25-30;Married;Information Engineer;Private sector;Iphone ;Vakifbank;5+;4+;Yes;8;4;7;5;4;3;3;0;3;;0;5;3;9;5;5;4;0;0;0;0;0;0;5;5;5;0;0;0;0;0;0;0;0;0;0;0;0;3;3;0;0;0;3;5;5;0;5
+230;Man;25-30;Married;computer engineer;Private sector;Android;Akbank;0-5;4-6;Yes;8;4;7;5;4;3;3;0;3;;0;5;3;9;5;5;4;0;0;0;0;0;0;5;5;5;0;0;0;0;0;0;0;0;0;0;0;0;3;3;0;0;0;3;5;5;0;5
+231;Man;25-30;Single;Manager;Private sector;Iphone 6S+;Isbank;0-5;0-3;Yes;8;8;5;5;3;8;8;8;7;8;5;3;9;3;8;4;3;4;4;8;8;4;4;7;3;8;8;8;8;8;8;8;8;8;8;8;8;3;8;9;8;8;8;8;8;8;8;0
+232;Man;20-24;Single;Student;Not working ;Iphone ;Ziraat;0-5;0-3;Yes;3;7;6;4;3;8;8;9;7;8;4;3;9;5;8;8;5;8;8;8;8;4;8;3;8;8;8;8;8;8;8;8;8;8;8;3;9;8;8;8;8;8;8;5;4;8;3;0
+233;Man;20-24;Single;Student;Not working ;Iphone 6S;Ziraat;0-5;0-3;Yes;9;9;9;7;8;4;5;9;8;8;8;9;6;4;4;8;8;6;8;5;5;8;6;8;9;8;8;8;7;6;5;9;6;7;8;4;3;4;9;7;8;3;5;5;3;9;3;0
+234;Man;20-24;Single;Not working ;Self-employed ;Sony;Ziraat ;0-5;0-3;Yes;7;7;5;4;4;8;8;8;7;3;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;4;8;8;8;0
+235;Man;20-24;Single;Student;Not working ;Samsung s3;Garanti ;0-5;0-3;Yes;8;8;7;4;4;6;9;8;9;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;0
+236;Woman;20-24;Single;Student;Not working ;Iphone ;Isbank;Never;4-6;Yes;5;5;5;4;8;8;8;8;5;4;3;9;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;0
+237;Man;20-24;Single;Student;Not working ;Iphone ;Isbank;0-5;Never;No;0;8;7;5;8;8;8;8;8;8;8;5;5;5;8;5;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;4;0
+238;Man;20-24;Single;Student;Not working ;Iphone 6S;Ziraat;0-5;0-3;Yes;3;0;9;9;9;8;8;8;9;9;9;9;9;8;4;8;8;7;9;9;9;8;8;4;4;8;8;8;8;8;8;8;8;8;8;8;8;9;8;9;9;9;9;9;9;8;9;0
+239;Man;20-24;Single;Student;Not working ;Iphone 5;Ziraat;Never;0-3;Yes;7;7;5;4;4;8;8;8;7;3;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;4;8;8;8;0
+240;Woman;25-30;Married;psychologist;Public institution ;Samsung;Ziraat;0-5;0-3;NO;0;5;5;8;4;8;8;8;5;5;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;5;5;8;8;8;8;8;8;8;4;8;8;8;8;8;3;0
+241;Woman;25-30;Married;psychologist;Public institution ;Samsung;Ziraat;0-5;0-3;NO;5;5;4;8;8;8;8;8;4;8;8;3;5;4;8;8;8;8;8;8;8;4;4;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;4;8;8;3;0
+242;Woman;25-30;Single;Engineer;Private sector;Samsung S7;Akbank;0-5;0-3;Yes;5;5;4;8;8;8;8;8;4;8;8;3;5;4;8;8;8;8;8;8;8;4;4;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;4;8;8;3;0
+243;Woman;25-30;Single;Biomedical Engineer;Private sector;Samsung S7+;Akbank;5-10;4-6;Yes;4;7;8;8;8;8;8;8;7;9;5;4;9;3;8;8;8;8;3;8;8;9;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;0
+244;Woman;25-30;Single;Biomedical Engineer;Private sector;Samsung S7+;Finansbank;5-10;4-6;Yes;3;9;7;5;3;8;8;8;7;8;5;3;5;5;8;8;8;8;8;8;8;4;8;8;8;8;8;8;8;8;8;3;4;8;8;8;8;8;3;8;3;8;3;5;8;8;4;0
+245;Woman;25-30;Single;Biomedical Engineer;Private sector;Samsung S7+;Isbank;5-10;4-6;Yes;3;9;7;5;3;8;8;8;7;8;5;3;5;5;8;8;8;8;8;8;8;4;8;8;8;8;8;8;8;8;8;3;4;8;8;8;8;8;3;8;3;8;3;5;8;8;4;0
+246;Woman;25-30;Single;Biomedical Engineer;Private sector;Samsung S7+;Burganbank;5-10;4-6;Yes;3;9;7;5;3;8;8;8;7;8;5;3;5;5;8;8;8;8;8;8;8;4;8;8;8;8;8;8;8;8;8;3;4;8;8;8;8;8;3;8;3;8;3;5;8;8;4;0
+247;Woman;25-30;Single;Biomedical Engineer;Private sector;Samsung S7+;Denizbank;5-10;4-6;Yes;3;9;7;5;3;8;8;8;7;8;5;3;5;5;8;8;8;8;8;8;8;4;8;8;8;8;8;8;8;8;8;3;4;8;8;8;8;8;3;8;3;8;3;5;8;8;4;0
+248;Man;25-30;Single;Tourist Guide;Self-employed ;HTC M8;Yok;Never;Never;NO;3;9;7;5;3;8;8;8;7;8;5;3;5;5;8;8;8;8;8;8;8;4;8;8;8;8;8;8;8;8;8;3;4;8;8;8;8;8;3;8;3;8;3;5;8;8;4;0
+249;Woman;20-24;Single;Not working ;Not working ;Iphone 6+;Finansbank;5-10;4-6;Yes;9;9;8;8;8;8;8;8;8;9;7;7;5;5;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;5;8;8;8;8;8;8;8;8;8;7;8;8;8;8;0
+250;Man;20-24;Single;Mathematician;Not working ;Samsung;KuveytTurk;15+;4-6;Yes;3;5;5;8;8;8;8;8;5;4;5;8;4;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;0
+251;Woman;25-30;Single;computer engineer;Private sector;Iphone 6s ;Yapi Kredi;0-5;0-3;Yes;4;4;5;4;4;8;8;8;5;8;3;8;8;9;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;4;8;8;8;8;8;8;8;8;8;8;5;3;8;9;0
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;;;;;;;;;;;;;;;;;;;;;;
